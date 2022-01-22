@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with BuG BouNty
 - 💬 Ask me about Hacking
-- 📫 How to reach me:<a href= https://www.linkedin.com/in/mayank-kumar-choubey-068238219/> LinkedIn Profile</a>
+- 📫 How to reach me: LinkdIn:<a href=https://www.linkedin.com/in/mayank-kumar-choubey-068238219/> @MayankChoubey</a>
