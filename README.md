@@ -2,12 +2,13 @@
 
 <h4>🏍 <b>SECURITY IS a MYTH!</b></h4>
 
-
+- ✌️ Investor | Hacker | loves Math
 - 🔭 I’m currently working on Hacker1 and Bugcrowd as a Pentester
 - 🌱 I’m currently learning deep into HACKING
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with BuG BouNty
 - 💬 Ask me about Hacking
+- ⌨️ Typing 60 Wpm
 - 📫 How to reach me: LinkdIn:<a href=https://www.linkedin.com/in/mayank-kumar-choubey-068238219/> @MayankChoubey</a>
 
 <b>Language Known📕</b>
