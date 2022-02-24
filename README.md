@@ -12,7 +12,7 @@
 - ⌨️ Typing 65 WPM
 - 📫 How to reach me: LinkdIn:<a href=https://www.linkedin.com/in/mayank-kumar-choubey-068238219/> @MayankChoubey</a>
 
-<b>Language Known📕</b>
+<b>Language Known📕 </b>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
