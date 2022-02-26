@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with BuG BouNty
 - 💬 Ask me about Hacking 
 - 📕 Loves Reading Books
-- ⌨️ Typing 65 WPM
+- ⌨️ Typing 65 WPM 
 - 📫 How to reach me: LinkdIn:<a href=https://www.linkedin.com/in/mayank-kumar-choubey-068238219/> @MayankChoubey</a>
 
 <b>Language Known📕 </b>
