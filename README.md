@@ -5,7 +5,7 @@
 - ✌️ | Hacker | | Investor
 - 🔭 I’m currently working on Hacker1 and Bugcrowd as a Pentester
 - 🌱 I’m currently learning deep into HaCKING 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ....
 - 🤔 I’m looking for help with BuG BouNty
 - 💬 Ask me about Hacking 
 - 📕 Loves Reading Books
