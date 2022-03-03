@@ -2,7 +2,7 @@
 
 <h4>🏍 <b>SECURITY IS a MYTH!</b></h4>
 
-- ✌️ | Hacker | | Investor
+- ✌️ | Hacker || Investor
 - 🔭 I’m currently working on Hacker1 and Bugcrowd as a Pentester
 - 🌱 I’m currently learning deep into HaCKING 
 - 👯 I’m looking to collaborate on ....
