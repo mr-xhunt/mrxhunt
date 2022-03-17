@@ -1,7 +1,7 @@
 ### Hi 👋 this is Mayank Kumar Choubey
 
 <h4>🏍 <b>SECURITY IS a MYTH!</b></h4>
-
+<script src="https://tryhackme.com/badge/694769"></script>
 - ✌️ | Hacker | | Investor
 - 🔭 I’m currently working on Hacker1 and Bugcrowd as a Pentester
 - 🌱 I’m currently learning deep into HaCkInG 
