@@ -1,5 +1,5 @@
 ### Hi 👋 this is Mayank Kumar Choubey
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Mr.xhunt.png" alt="TryHackMe">
+ <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Mr.xhunt.png" alt="TryHackMe">
 
 <h4>🏍 <b>SECURITY IS a MYTH!</b></h4>
 
