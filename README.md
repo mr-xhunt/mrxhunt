@@ -1,7 +1,7 @@
 ### Hi 👋 this is Mayank Kumar Choubey
  <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Mr.xhunt.png" alt="TryHackMe">
 
-<h4>🏍 <b>SECURITY IS a MYTH!</b></h4>
+<h4>🏍 <b>SECURITY Is a MYTH!</b></h4>
 
 - ✌️ | Hacker || Investor
 - 🔭 I’m currently working on Hacker1 and Bugcrowd as a Pentester
