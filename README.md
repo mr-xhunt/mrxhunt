@@ -4,7 +4,6 @@
 <h4>🏍 <b>SECURITY Is a MYTH!</b></h4>
 
 - ✌️ | Hacker |
-- 🔭 I’m currently working on Hacker1 and Bugcrowd as a Pentester
 - 🌱 I’m currently learning deep into HaCkInG 
 - 👯 I’m looking to collaborate in Bug-Bounty
 - 💬 Ask me about Hacking 
