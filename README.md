@@ -4,7 +4,8 @@
 <h4>🏍 <b>SECURITY Is a MYTH!</b></h4>
 
 - ✌️ | Hacker |
-- 🌱 I’m currently learning deep into HaCkInG 
+- 🌱 I’m currently learning deep into HaCkInG
+- 🌱 CTF Player
 - 👯 I’m looking to collaborate in Bug-Bounty
 - 💬 Ask me about Hacking 
 - 📕 Loves Reading Books
